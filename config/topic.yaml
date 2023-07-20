@@ -1,0 +1,6 @@
+%YAML:1.0
+topic_name:
+  lidar_topic  : "/points_raw"
+  imu_topic    : "/imu_raw"
+  gps_topic    : "/nav_sat_fix"
+  camera_topic : "/camera/image_color/compressed"
